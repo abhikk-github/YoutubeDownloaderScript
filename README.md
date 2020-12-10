@@ -1,2 +1,1 @@
-# YoutubeDownloaderScript
-YoutubeDownloaderScript
+pip install pytube
